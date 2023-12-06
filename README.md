@@ -2,8 +2,8 @@
 This project boilerplate is for Edge Delivery Services projects that integrate with Adobe Commerce.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-boilerplate-commerce--paolomoz.hlx.page/
+- Live: https://main--aem-boilerplate-commerce--paolomoz.hlx.live/
 
 ## Installation
 
